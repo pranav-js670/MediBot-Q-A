@@ -10,6 +10,7 @@ Ensure you have the following prerequisites before getting started:
 
 - Python 3.x
 - Install dependencies by running: 
+
   ```bash
   pip install -r requirements.txt
   ```
